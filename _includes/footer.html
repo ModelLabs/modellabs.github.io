@@ -1,0 +1,44 @@
+<!-- footer -->
+<footer class="bg-dark">
+  <div class="section bg-primary position-relative testimonial-bg-shapes">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="section-title text-white">Contact Us</h2>
+        </div>
+        <div class="col-12 text-center">
+          <h5 class="text-light">Email</h5>
+          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.email }}</p>
+        </div>
+        <!-- <div class="col-md-4" style="display: none;">
+          <h5 class="text-light">Phone</h5>
+          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.phone }}</p>
+        </div> -->
+        <!-- <div class="col-md-5">
+          <h5 class="text-light">Address</h5>
+          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.address }}</p>
+        </div> -->
+      </div>
+    </div>
+    <!-- bg shapes -->
+    <img src="{{ site.baseurl }}/assets/images/illustrations/dots-group-sm.png" alt="bg-shape" class="img-fluid bg-shape-3">
+    <!-- <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-pink-round.png" alt="bg-shape" class="img-fluid bg-shape-4">
+    <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan.png" alt="bg-shape" class="img-fluid bg-shape-5"> -->
+    <img src="{{ site.baseurl }}/assets/images/backgrounds/map.png" alt="map" class="img-fluid bg-map">
+    <img src="{{ site.baseurl }}/assets/images/illustrations/dots-group-v.png" alt="bg-shape" class="img-fluid bg-shape-1">
+    <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-orange.png" alt="bg-shape" class="img-fluid bg-shape-2">
+  </div>
+  <div class="border-top text-center border-dark py-5">
+    <p class="mb-0 text-light">{{site.data.settings.copyright | markdownify}}</p>
+  </div>
+</footer>
+<!-- /footer -->
+
+
+<!-- JS Plugins -->
+{% for js in site.data.plugins.js %}
+<script src="{{ js | relative_url }}"></script>
+{% endfor %}
+
+<!-- Main Script -->
+<script src="{{ '/assets/js/script.js' | relative_url }}"></script>
