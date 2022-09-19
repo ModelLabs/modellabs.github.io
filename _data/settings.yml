@@ -38,7 +38,8 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! We're <br> Model Labs <br>
+  hero-title: Expand Consensus With Models #<br> Model Labs <br>
+  sub-title: Building a model-driven development framework for Web3
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -53,7 +54,7 @@ social:
 # About Section
 blurb:
   # Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  We are a elite team. Our team of 5 members works efficiently and in the open to improve the web3 — 21st century most attractive technology — as we explore new advances in modeling and related fields.
+  Models provide cross-context abstractions of Web3 infrastructures, protocols, applications etc. Model Labs aims at establishing an open ecosystem where builders innovate with reliable models.
 blurb-btn-link: '/about'
 blurb-btn-name: know more
 
@@ -165,10 +166,10 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/modelin.png"
-    url: "https://github.com/Web3Models"
+  - image : "assets/images/portfolio/blockmodel.png"
+    url: "https://github.com/ModelLabs"
     
-  # - image : "assets/images/portfolio/item-2.png"
+  # - image : "assets/images/portfolio/description.png"
   #   url: "#"
     
   # - image : "assets/images/portfolio/item-3.png"
