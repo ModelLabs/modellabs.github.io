@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Us
-author: Johnathan Smith
+author: Model Labs
 image: assets/images/about/model-icon.png
 signature: assets/images/about/signature.png
 ---
