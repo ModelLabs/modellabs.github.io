@@ -1,10 +1,30 @@
 <!-- about -->
-<section class="section">
+<!-- <section class="section">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto text-center">
         <p class="font-secondary paragraph-lg text-dark">{{ site.data.settings.blurb }}</p>
         <a href="{{ site.data.settings.blurb-btn-link }}" class="btn btn-transparent">{{ site.data.settings.blurb-btn-name }}</a>
+      </div>
+    </div>
+  </div>
+</section> -->
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-around">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title font-tertiary">{{ site.data.settings.blurb-title }}</h2>
+        <!-- <p class="font-secondary paragraph-lg text-dark">{{ site.data.settings.blurb }}</p> -->
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item">
+        <div class="position-relative rounded hover-wrapper" style="position: absolute; top: 0px; left: 60px; visibility: visible; will-change: transform; opacity: 1; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
+          <p class="paragraph-lg font-secondary" style="font-size: 16px; margin-top: 10px;">{{ site.data.settings.blurb-desc1 }}</p>
+        </div>
+      </div>
+      <div class="col-lg-4 col-6 mb-4 shuffle-item">
+        <div class="position-relative rounded hover-wrapper" style="position: absolute; top: 0px; left: -60px; visibility: visible; will-change: transform; opacity: 1; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-property: transform, opacity;">
+          <p class="paragraph-lg font-secondary" style="font-size: 16px; margin-top: 10px;">{{ site.data.settings.blurb-desc2 }}</p>
+        </div>
       </div>
     </div>
   </div>
