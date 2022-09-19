@@ -5,10 +5,10 @@ title: Model Labs
 logo: 
 author: Model Labs
 description: this is meta description
-email: web3models@gmail.com
+email: models.research.lab@gmail.com
 # phone: +880 2544 658 256
 address: Hainan, China
-copyright: Copyright &copy; 2020 Designed by [Model Lab](https://github.com/Web3Models) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2020 Designed by [Model Labs](https://github.com/Modellabs) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
@@ -106,12 +106,12 @@ work-process:
 
 experience-title: News
 experience:
-- {name: Participate in the 2022 WANXIANG Hackathon, icon: 'icon-2.png', date: 'Q2 of 2022', organization: ''}
-- {name: Participate in the ETH SHANGHAI Hackathon online, icon: 'icon-1.png', date: 'Q2 of 2022', organization: ''}
-- {name: Participate in the 2022 Chainlink Hackathon online, icon: 'icon-3.png', date: 'Q2 of 2022', organization: ''}
-- {name: Modelin version 0.1 was released, icon: 'icon-2.png', date: 'Q1 of 2022', organization: ''}
-- {name: Modelin was developed, icon: 'icon-1.png', date: 'Q4 of 2021', organization: ''}
-- {name: The Model Lab was eatablished, icon: 'icon-1.png', date: 'Q4 of 2021', organization: ''}
+- {name:  Live on Gitcoin GR15, icon: 'icon-2.png', date: 'Q3 of 2022', organization: ''}
+- {name:  Research paper accepted by ACM MODELS 2022, icon: 'icon-3.png', date: 'Q3 of 2022', organization: ''}
+- {name:  Won prizes in 2022 Wanxiang Hackathon, icon: 'icon-1.png', date: 'Q2 of 2022', organization: ''}
+- {name:  BlockModel v0.1 released, icon: 'icon-2.png', date: 'Q1 of 2022', organization: ''}
+# - {name: Modelin was developed, icon: 'icon-1.png', date: 'Q4 of 2021', organization: ''}
+# - {name: The Model Lab was eatablished, icon: 'icon-1.png', date: 'Q4 of 2021', organization: ''}
 #-------------------------------
 # Education Section
 
