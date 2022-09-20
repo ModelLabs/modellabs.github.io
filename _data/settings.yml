@@ -8,7 +8,7 @@ description: this is meta description
 email: models.research.lab@gmail.com
 # phone: +880 2544 658 256
 address: Hainan, China
-copyright: Copyright &copy; 2020 Designed by [Model Labs](https://github.com/Modellabs) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2022 Designed by [Model Labs](https://github.com/Modellabs) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
