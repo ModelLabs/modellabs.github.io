@@ -110,7 +110,8 @@ work-process:
 experience-title: News
 experience:
 - {name:  Won First Prize in Rebase Hackathon 2022, icon: 'icon-1.png', date: 'Q4 of 2022', organization: ''}
-- {name:  Awarded Next-Step-Grant from Protocol Labs, icon: 'icon-2.png', date: 'Q3 of 2022', organization: ''}
+- {name:  Launched Tokenomics Community - TokeNature, icon: 'icon-2.png', date: 'Q4 of 2022', organization: ''}
+- {name:  Awarded Next-Step-Grant from Protocol Labs, icon: 'icon-2.png', date: 'Q4 of 2022', organization: ''}
 - {name:  Participated in Gitcoin GR15, icon: 'icon-2.png', date: 'Q3 of 2022', organization: ''}
 - {name:  Research paper accepted by ACM MODELS 2022, icon: 'icon-3.png', date: 'Q3 of 2022', organization: ''}
 - {name:  Won prizes in 2022 Wanxiang Hackathon, icon: 'icon-1.png', date: 'Q2 of 2022', organization: ''}
